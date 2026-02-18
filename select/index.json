@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゆめみるプリマドンナ",
+  "base_artist": "CUTIE STREET",
+  "createdAt": "2026-02-18T03:41:23.017784Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆめみるプリマドンナ",
+      "artist": "CUTIE STREET",
+      "has_synced": false,
+      "path": "select/pl_01_ゆめみるプリマドンナ_CUTIE_STREET.txt"
+    }
+  ]
+}
